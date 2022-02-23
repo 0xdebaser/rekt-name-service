@@ -1,15 +1,3 @@
-# Basic Sample Hardhat Project
+# rekt Name Service
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+This is a buildspace project to allow a user to mint an NFT on Polygon that is tied to a ".rekt" doamin name, and set a related record for that domain. This repo is the smart contract and the frontend is in a separate repo.
